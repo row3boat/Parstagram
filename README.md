@@ -29,6 +29,10 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://i.imgur.com/w43s5MI.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+Here's a gif showing that the user story to persist login was finished:
+<img src='https://i.imgur.com/gtePNah.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
